@@ -1,4 +1,4 @@
-(defproject org.clojars.miikka/signed-artifact "0.1.0"
+(defproject org.clojars.miikka/signed-artifact "0.1.1-SNAPSHOT"
   :description "Signed with GPG"
   :url "https://github.com/miikka/weird-artifacts"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
