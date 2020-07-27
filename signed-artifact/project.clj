@@ -5,4 +5,5 @@
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.1"]]
   :repl-options {:init-ns signed-artifact.core}
+  :deploy-repositories [["releases" :clojars]]
   :vcs :git)
